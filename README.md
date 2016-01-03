@@ -1,7 +1,7 @@
-## Awesome ZeroMQ 
-=============
+Awesome ZeroMQ 
+-----
 
-> “[0MQ](http://www.zeromq.org/) is unbelievably cool—if you haven't got a project that needs it, make one up -- Jon Gifford,” 
+> “[0MQ](http://www.zeromq.org/) is unbelievably cool—if you haven't got a project that needs it, make one up -- Jon Gifford,”   
 
 
 
