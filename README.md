@@ -2,7 +2,7 @@ Awesome ZeroMQ
 -----
 
 > “[0MQ](http://www.zeromq.org/) is unbelievably cool—if you haven't got a project that needs it, make one up -- Jon Gifford,”   
-
+> [Zero Guide](http://zguide.zeromq.org/page%3aall)  [中文翻译版](https://github.com/anjuke/zguide-cn)
 
 
 A curated list of awesome zeromq, mainly focus on python related 
