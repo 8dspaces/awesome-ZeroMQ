@@ -12,7 +12,7 @@ Resources
 
 - Tutorial
     - [Learn 0MQ with pyzmq](https://learning-0mq-with-pyzmq.readthedocs.org/en/latest/pyzmq/pyzmq.html)
-    - [Zero Guide](http://zguide.zeromq.org/page%3aall)  [中文翻译版](https://github.com/anjuke/zguide-cn)
+    - [Zero Guide](http://zguide.zeromq.org/page%3aall)  [(中文翻译版)](https://github.com/anjuke/zguide-cn)
 - Videos
     - [ZeroMQ is the answer](https://www.youtube.com/watch?v=v6AGUeZOVSU)    
     
