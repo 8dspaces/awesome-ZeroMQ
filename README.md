@@ -30,3 +30,4 @@ Build on ZeroMQ
 
 - [pyzmq](https://github.com/zeromq/pyzmq) - Python bindings for zeromq
 - [zmqrpc](https://github.com/geoffwatts/zmqrpc) - Python RPC library using zmq for transport, and BSON for buffers
+- [zerorpc-python](https://github.com/0rpc/zerorpc-python) - zerorpc is a flexible RPC implementation based on zeromq and messagepack.
